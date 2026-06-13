@@ -1,0 +1,12 @@
+haproxy/
+nginx/
+.env
+LICENSE
+proxy.yaml
+README.md
+schema.pdf
+Dockerfile*
+__pycache__
+*.pyc
+.git
+venv/
